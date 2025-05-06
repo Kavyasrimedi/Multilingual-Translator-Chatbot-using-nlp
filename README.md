@@ -32,14 +32,14 @@ pip install -r requirements.txt
 
 Type your messages and translate across languages! Type exit to quit the chatbot.
 
-Requirements
+## Requirements
 googletrans==4.0.0-rc1
 
 langdetect
 
 nltk
 
-Author
-Kavya Srimedi
+## Author
+Kavya Sri Medi
 
 
